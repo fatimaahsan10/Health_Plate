@@ -1,5 +1,4 @@
-# Health_Plate
-# Healthy Plate: Nutrition Advisor (Prototype)
+# Healthy Plate: Nutrition Advisor 
 
 A simple prototype that predicts whether a meal/dish is "Balanced" or "Unbalanced" based on nutrition values.
 This is a hackathon prototype: labels are created with heuristic rules.
